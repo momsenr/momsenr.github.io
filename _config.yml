@@ -1,23 +1,22 @@
-title:            Jordi Pont-Tuset's site
+title:            Momsen Reincke's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //momsenr.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Momsen Reincke
+  avatar:         momsen.png
+  bio:            I'm a postdoc at Stanford and incoming Emmy-Noether group leader at Charité – Universitätsmedizin Berlin. Passionate about neurology, singing, running, and biking.
+  email:          mreincke@stanford.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  # twitter: MomsenReincke
+  linkedin: momsen-reincke-md-41bab7289
+  google_scholar: GYaaaX8AAAAJ
+  github: momsenr
+  strava: 117908292
 # Analytics and webmaster tools stuff goes here
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
@@ -26,14 +25,14 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
+#  - title: Curriculum
+#    url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
-  - title: Blog
-    url: /blog/
+#  - title: Code
+#    url: /code/
+#  - title: Blog
+#    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
