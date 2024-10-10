@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Momsen Reincke's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: tress.jpg
+  feature: IMMG_3448_scaled.jpg
 ---
 
 My research focuses on antibodies in neurological autoimmunity, the development of antigen-specific therapies for conditions like NMDAR encephalitis, and the prediction of disease risk using deep phenotyping and electronic health records. 
