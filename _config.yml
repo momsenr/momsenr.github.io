@@ -27,7 +27,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: CV
-    url: Momsen_CV_2024_10.pdf
+    url: /Momsen_CV_2024_10.pdf
 #  - title: Publications
 #    url: /publications/
 #  - title: Code
