@@ -26,8 +26,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-#  - title: Curriculum
-#    url: /cv/
+  - title: CV
+    url: Momsen_CV_2024_10.pdf
 #  - title: Publications
 #    url: /publications/
 #  - title: Code
