@@ -9,7 +9,7 @@ image:
 
 My research focuses on antibodies in neurological autoimmunity, the development of antigen-specific therapies for conditions like NMDAR encephalitis, and the prediction of disease risk using deep phenotyping and electronic health records. 
 - I am a clinician-scientist with a dual background in Medicine and Mathematics. I did my clinical training at Charité – Universitätsmedizin Berlin.
-- I am a research group leader at Charité – Universitätsmedizin Berlin. I am currently looking for a postdoc to join my team to work on exciting projects in neuroimmunology.
+- I am a research group leader at Charité – Universitätsmedizin Berlin. You can find out more about my lab's work <a href="https://www.antibodybrainlab.com" target="_blank">here</a>. I am currently looking for a postdoc to join my  <a href="https://www.antibodybrainlab.com/team/" target="_blank">team</a> to work on exciting projects in neuroimmunology.
 - Previously, I was a postdoc in <a href="https://nalab.stanford.edu/team/nima-aghaeepour/" target="_blank">Nima Aghaeepour's lab</a> at Stanford.
 - You can find my CV (might be outdated) <a href="Momsen_CV_2024_10.pdf" >here</a>.
 
